@@ -1,0 +1,9 @@
+Building BeliCoin
+
+See doc/readme-qt.rst for instructions on building BeliCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BeliCoin.
+
+See doc/build-*.txt for instructions on building BeliCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litecoin.
